@@ -3,8 +3,9 @@
 # Semi-Automatic Labelling of Thermal Images (SALTI)
 
 Project implemented at Mobile Perception Systems Lab, seconded by TU/e. \
+<br />
 An overview is presented below. \
-_(Source codes cannot be shared)_
+_(Source codes - Confidential)_
 
 ## Project Overview:
 
